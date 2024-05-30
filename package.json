@@ -73,7 +73,7 @@
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-vue": "^8.5.0",
     "eslint-plugin-vuejs-accessibility": "^1.1.1",
-    "icon-gen": "^3.0.1",
+    "icon-gen": "^4.0.0",
     "js-yaml-loader": "^1.2.2",
     "markdownlint-cli": "^0.31.1",
     "remark-cli": "^10.0.1",
